@@ -1,0 +1,8 @@
+C:\Users\RD\Desktop\132_ListView各種顯示方法(顯示大圖+文字)\02\Article\Article\bin\Release\Article.exe
+C:\Users\RD\Desktop\132_ListView各種顯示方法(顯示大圖+文字)\02\Article\Article\bin\Release\Article.pdb
+C:\Users\RD\Desktop\132_ListView各種顯示方法(顯示大圖+文字)\02\Article\Article\obj\x86\Release\Article.Form1.resources
+C:\Users\RD\Desktop\132_ListView各種顯示方法(顯示大圖+文字)\02\Article\Article\obj\x86\Release\Article.Form2.resources
+C:\Users\RD\Desktop\132_ListView各種顯示方法(顯示大圖+文字)\02\Article\Article\obj\x86\Release\Article.Properties.Resources.resources
+C:\Users\RD\Desktop\132_ListView各種顯示方法(顯示大圖+文字)\02\Article\Article\obj\x86\Release\Article.csproj.GenerateResource.Cache
+C:\Users\RD\Desktop\132_ListView各種顯示方法(顯示大圖+文字)\02\Article\Article\obj\x86\Release\Article.exe
+C:\Users\RD\Desktop\132_ListView各種顯示方法(顯示大圖+文字)\02\Article\Article\obj\x86\Release\Article.pdb

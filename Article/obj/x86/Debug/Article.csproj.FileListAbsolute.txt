@@ -1,0 +1,18 @@
+C:\Users\Indus_User\documents\visual studio 2010\Projects\Article\Article\bin\Debug\Article.exe
+C:\Users\Indus_User\documents\visual studio 2010\Projects\Article\Article\bin\Debug\Article.pdb
+C:\Users\Indus_User\documents\visual studio 2010\Projects\Article\Article\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Indus_User\documents\visual studio 2010\Projects\Article\Article\obj\x86\Debug\Article.Form1.resources
+C:\Users\Indus_User\documents\visual studio 2010\Projects\Article\Article\obj\x86\Debug\Article.Properties.Resources.resources
+C:\Users\Indus_User\documents\visual studio 2010\Projects\Article\Article\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Indus_User\documents\visual studio 2010\Projects\Article\Article\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Indus_User\documents\visual studio 2010\Projects\Article\Article\obj\x86\Debug\Article.exe
+C:\Users\Indus_User\documents\visual studio 2010\Projects\Article\Article\obj\x86\Debug\Article.pdb
+C:\Users\Indus_User\documents\visual studio 2010\Projects\Article\Article\obj\x86\Debug\Article.Form2.resources
+C:\Users\RD\Desktop\132_ListView各種顯示方法(顯示大圖+文字)\02\Article\Article\obj\x86\Debug\Article.exe
+C:\Users\RD\Desktop\132_ListView各種顯示方法(顯示大圖+文字)\02\Article\Article\obj\x86\Debug\Article.pdb
+C:\Users\RD\Desktop\132_ListView各種顯示方法(顯示大圖+文字)\02\Article\Article\bin\Debug\Article.exe
+C:\Users\RD\Desktop\132_ListView各種顯示方法(顯示大圖+文字)\02\Article\Article\bin\Debug\Article.pdb
+C:\Users\RD\Desktop\132_ListView各種顯示方法(顯示大圖+文字)\02\Article\Article\obj\x86\Debug\Article.Form1.resources
+C:\Users\RD\Desktop\132_ListView各種顯示方法(顯示大圖+文字)\02\Article\Article\obj\x86\Debug\Article.Form2.resources
+C:\Users\RD\Desktop\132_ListView各種顯示方法(顯示大圖+文字)\02\Article\Article\obj\x86\Debug\Article.Properties.Resources.resources
+C:\Users\RD\Desktop\132_ListView各種顯示方法(顯示大圖+文字)\02\Article\Article\obj\x86\Debug\Article.csproj.GenerateResource.Cache
